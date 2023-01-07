@@ -1,0 +1,2 @@
+﻿Fashion MNIST dataset
+URL : https://keras.io/api/datasets/fashion_mnist/

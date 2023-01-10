@@ -1,8 +1,5 @@
 **Robot Intelligence: Report Assignment**
 
-**T****anachai Anakewat**
-
-**Student ID: 03-220255**
 
 **Introduction**
 
